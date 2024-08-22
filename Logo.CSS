@@ -1,0 +1,21 @@
+.logo{
+    font-family: 'Playfair Display',sans-sarif;
+    font-size: 24px;
+    color: #4CAF50;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.logo span{
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.logo span:first-child{
+    font-size: 36px;
+    color: #333;
+}
+
+.logo span:last-child{
+    color: #666;
+}
